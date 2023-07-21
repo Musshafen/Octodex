@@ -58,3 +58,14 @@ footer {
   margin: 0rem 10rem;
   padding: 1rem 0rem;
 }
+
+li,
+ul {
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+ul.container,
+header.container {
+  justify-content: space-between;
+}
