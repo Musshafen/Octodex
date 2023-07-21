@@ -34,3 +34,15 @@ a[href*='index']:hover {
   font-size: 18px;
   text-decoration: none;
 }
+
+header a:hover {
+  text-decoration: underline;
+}
+
+main a:hover {
+  color: cornflowerblue;
+}
+
+main {
+  padding: 8rem 10 rem 4 rem 10rem;
+}
