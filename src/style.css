@@ -28,3 +28,9 @@ header {
 nav {
   padding: 0rem 10rem 0rem 9rem;
 }
+a[href*='index'],
+a[href*='index']:hover {
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+}
