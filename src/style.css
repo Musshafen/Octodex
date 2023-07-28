@@ -111,3 +111,8 @@ main .container {
 .mulitartist {
   display: flex;
 }
+@media (max-width: 1120px) {
+  .hidden {
+    font-size: 0px;
+  }
+}
