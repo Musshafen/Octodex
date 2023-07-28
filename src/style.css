@@ -102,3 +102,12 @@ main .container {
   padding: 0.5rem;
   background-color: white;
 }
+
+.artist {
+  width: 24px;
+  height: 24px;
+}
+
+.mulitartist {
+  display: flex;
+}
