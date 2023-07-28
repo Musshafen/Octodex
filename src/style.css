@@ -81,3 +81,11 @@ ul.container,
 header.container {
   justify-content: space-between;
 }
+
+.container {
+display: flex;
+flex-wrap: wrap;
+justify-content: flex-start;
+align-items: center;
+gap: 15px;
+}
