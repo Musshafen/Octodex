@@ -1,5 +1,5 @@
 :root {
-  font: 16px / 1 sans-serif;
+  font: 14px / 1 sans-serif;
   background-color: #fafbfc;
   color: #586069;
 }
@@ -46,6 +46,18 @@ main a:hover {
 
 article a {
   font-size: 16px;
+}
+
+a,
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a.grey,
+a.grey:hover {
+  color: grey;
+  text-decoration: none;
 }
 
 main {
